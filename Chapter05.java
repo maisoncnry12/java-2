@@ -12,7 +12,7 @@ public class Chapter05 {
 		System.out.println(b);
 //		trueで初期化
 
-//		ラッパークラスはオートボクシングで初期化して出力
+//		ラッパークラス型はオートボクシングで初期化して出力
 		Integer i = 100;
 		System.out.println(i);
 //		"int"の値で初期化
